@@ -1,4 +1,4 @@
-# LoRa Smart Energy Meter
+# LoRa Smart Energy Meter.
 
 A LoRa-based smart prepaid energy meter built using **ESP32**. The system measures real-time electrical parameters using the **PZEM-004T** energy meter module and transmits the data wirelessly through a **LoRa (SX1278)** module. Readings are displayed locally on a TFT screen and remotely through a web dashboard.
 
